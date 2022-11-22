@@ -1,0 +1,2 @@
+/usr/bin/ar qc libMyCalc.a CMakeFiles/MyCalc.dir/src/div.cpp.o
+/usr/bin/ranlib libMyCalc.a

@@ -1,0 +1,3 @@
+/home/voskanyan20/Desktop/SystemProgramming/Tasks/22.11.22/useLib/CMakeFiles/MyCalc.dir
+/home/voskanyan20/Desktop/SystemProgramming/Tasks/22.11.22/useLib/CMakeFiles/edit_cache.dir
+/home/voskanyan20/Desktop/SystemProgramming/Tasks/22.11.22/useLib/CMakeFiles/rebuild_cache.dir

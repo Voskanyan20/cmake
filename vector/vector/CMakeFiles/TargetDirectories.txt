@@ -1,0 +1,3 @@
+/home/voskanyan20/Desktop/SystemProgramming/Tasks/22.11.22/vector/vector/CMakeFiles/MyVect.dir
+/home/voskanyan20/Desktop/SystemProgramming/Tasks/22.11.22/vector/vector/CMakeFiles/edit_cache.dir
+/home/voskanyan20/Desktop/SystemProgramming/Tasks/22.11.22/vector/vector/CMakeFiles/rebuild_cache.dir

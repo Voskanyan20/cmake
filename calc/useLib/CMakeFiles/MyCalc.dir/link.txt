@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/MyCalc.dir/src/main.cpp.o -o MyCalc   -L/home/voskanyan20/Desktop/SystemProgramming/Tasks/22.11.22/useLib/libs  -Wl,-rpath,/home/voskanyan20/Desktop/SystemProgramming/Tasks/22.11.22/useLib/libs -Wl,-Bstatic -lMyLib -Wl,-Bdynamic 

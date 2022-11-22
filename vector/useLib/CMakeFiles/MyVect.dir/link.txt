@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/MyVect.dir/src/main.cpp.o -o MyVect   -L/home/voskanyan20/Desktop/SystemProgramming/Tasks/22.11.22/vector/useLib/libs  -Wl,-rpath,/home/voskanyan20/Desktop/SystemProgramming/Tasks/22.11.22/vector/useLib/libs -Wl,-Bstatic -lMyLib -Wl,-Bdynamic 
